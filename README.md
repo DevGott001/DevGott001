@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevGott001
-- 👀 I’m interested in Web and App development...
-- 🌱 I’m currently learning Backend development using Node.js
+- 👀 I’m a Backend developer and data engineer...
+- 🌱 I’m currently learning Data engineering using Python
 - 💞️ I’m looking to collaborate on any open source project that I can 
 - 📫 How to reach me DevGott001
 
